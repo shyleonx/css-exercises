@@ -1,0 +1,19 @@
+.pink {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blue {
+    color: rgb(63, 63, 241);
+    font-size: 36px;
+}
+
+.pink.two {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(70, 223, 70);
+    font-size: 24px;
+    font-weight: bold;
+}
